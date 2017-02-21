@@ -4,5 +4,5 @@
 
 # How to run:
 1. cd src
-2. Javac javaQuizApp.java
-3. Java javaQuizApp
+2. javac javaQuizApp.java
+3. java javaQuizApp
